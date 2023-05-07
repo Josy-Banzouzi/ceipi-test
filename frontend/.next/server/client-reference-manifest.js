@@ -917,7 +917,7 @@ self.__RSC_MANIFEST={
   },
   "edgeSSRModuleMapping": {},
   "cssFiles": {
-    "/Users/josybanzouzi/WebProject/CEIPI Test/frontend/src/app/layout": [
+    "/Users/josybanzouzi/WebProject/CEIPI Test/frontend/app/layout": [
       "static/css/app/layout.css"
     ]
   },
@@ -2618,6 +2618,20 @@ self.__RSC_MANIFEST={
       ],
       "async": false
     },
+    "/Users/josybanzouzi/WebProject/CEIPI Test/frontend/app/globals.css#": {
+      "id": "null",
+      "name": "default",
+      "chunks": [
+        "static/css/app/layout.css"
+      ]
+    },
+    "/Users/josybanzouzi/WebProject/CEIPI Test/frontend/node_modules/next/font/google/target.css?{\"path\":\"app/layout.js\",\"import\":\"Inter\",\"arguments\":[{\"subsets\":[\"latin\"]}],\"variableName\":\"inter\"}#": {
+      "id": "null",
+      "name": "default",
+      "chunks": [
+        "static/css/app/layout.css"
+      ]
+    },
     "/Users/josybanzouzi/WebProject/CEIPI Test/frontend/node_modules/next/dist/client/image.js": {
       "id": "(app-client)/./node_modules/next/dist/client/image.js",
       "name": "*",
@@ -2953,20 +2967,6 @@ self.__RSC_MANIFEST={
         "app/page:static/chunks/app/page.js"
       ],
       "async": false
-    },
-    "/Users/josybanzouzi/WebProject/CEIPI Test/frontend/src/app/globals.css#": {
-      "id": "null",
-      "name": "default",
-      "chunks": [
-        "static/css/app/layout.css"
-      ]
-    },
-    "/Users/josybanzouzi/WebProject/CEIPI Test/frontend/node_modules/next/font/google/target.css?{\"path\":\"src/app/layout.js\",\"import\":\"Inter\",\"arguments\":[{\"subsets\":[\"latin\"]}],\"variableName\":\"inter\"}#": {
-      "id": "null",
-      "name": "default",
-      "chunks": [
-        "static/css/app/layout.css"
-      ]
     }
   }
 }
